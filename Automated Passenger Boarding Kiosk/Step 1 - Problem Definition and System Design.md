@@ -18,6 +18,8 @@ Azure Computer Vision, Face, and Form Recognizer services, along with few other 
 The system will extract information from identification cards and boarding passes. Face information are extracted from digital ID and a 30-second video to match a given passenger's face from. The same video will also be used to extract the passenger's emotions. Also it can detect if a passenger's carry-on items include a lighter or not.
 [![1.jpg](https://i.postimg.cc/8cq14qSV/1.jpg)](https://postimg.cc/H89DsvnS)
 
-[![2.jpg](https://i.postimg.cc/KzWFcd4g/2.jpg)](https://postimg.cc/MM1gd37W)
+## Data Flow for Data Validation
+[![dataflow.png](https://i.postimg.cc/PrhjKvxL/dataflow.png)](https://postimg.cc/23HMS6nm)
 
-[![3.jpg](https://i.postimg.cc/tJVbs2Vv/3.jpg)](https://postimg.cc/n9Zg5K2q)
+## Azure Services Architecture
+[![AZURE-SERVICES.png](https://i.postimg.cc/63dPGzCM/AZURE-SERVICES.png)](https://postimg.cc/N9jD36JX)
